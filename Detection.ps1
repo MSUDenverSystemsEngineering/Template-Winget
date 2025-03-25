@@ -12,7 +12,6 @@
     access the last element of the array which contains the text we want.
     If winget ever changes how the loading animations work we may want to switch to disabling them in a winget settings file instead.
 .NOTES
-	Author: Ryan McKenna
     Date: 3/25/2025
 #>
 

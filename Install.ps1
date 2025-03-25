@@ -7,7 +7,6 @@
     The latter are apps from the Microsoft Store and can be packaged natively in Intune.
     Since winget is largely a user-based tool, there is some extra work we have to do to run this as system.
 .NOTES
-	Author: Ryan McKenna
     Date: 3/25/2025
 #>
 
