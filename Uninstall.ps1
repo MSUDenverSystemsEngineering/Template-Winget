@@ -12,7 +12,7 @@
 #>
 
 #The Winget package ID
-$PackageName = "Notepad++.Notepad++"
+$PackageName = ""
 
 #See if the MSU Denver directory already exists, if not, then create it
 if (-not (Test-Path -Path C:\MSUDenver\Logs -PathType Container))
